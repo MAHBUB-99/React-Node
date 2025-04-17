@@ -1,0 +1,9 @@
+{"name":"JohnDoe","pass":"password123","email":"johndoe@example.com"}
+{"name":"JaneSmith","pass":"password456","email":"janesmith@example.com"}
+{"name":"AliceBrown","pass":"password789","email":"alicebrown@example.com"}
+{"name":"BobJohnson","pass":"password101","email":"bobjohnson@example.com"}
+{"name":"CharlieDavis","pass":"password202","email":"charliedavis@example.com"}
+{"name":"test","pass":"123456","email":"test@gmail.com"}
+{"name":"test2","pass":"12345","email":"test2@gmail.com"}
+{"name":"arko","pass":"1234","email":"arko@gmai.com"}
+{"name":"test","pass":"1111111111111111","email":"test@gmail,com"}
